@@ -1,0 +1,74 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Laptop",
+        "price": 1200,
+        "category": "Electronics",
+        "image": "/images/laptop.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Chair",
+        "price": 150,
+        "category": "Furniture",
+        "image": "/images/chair.png"
+      },
+      {
+        "id": 3,
+        "name": "Watch",
+        "price": 250,
+        "category": "Accessories",
+        "image": "/images/watch.png"
+      },
+      {
+        "id": 4,
+        "name": "Smartphone",
+        "price": 800,
+        "category": "Electronics",
+        "image": "/images/smartphone.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Table",
+        "price": 300,
+        "category": "Furniture",
+        "image": "/images/table.png"
+      },
+      {
+        "id": 6,
+        "name": "Headphones",
+        "price": 100,
+        "category": "Electronics",
+        "image": "/images/headphones.png"
+      },
+      {
+        "id": 7,
+        "name": "Backpack",
+        "price": 75,
+        "category": "Accessories",
+        "image": "/images/backpack.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Monitor",
+        "price": 400,
+        "category": "Electronics",
+        "image": "/images/monitor.png"
+      },
+      {
+        "id": 9,
+        "name": "Sofa",
+        "price": 1200,
+        "category": "Furniture",
+        "image": "/images/sofa.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Sunglasses",
+        "price": 50,
+        "category": "Accessories",
+        "image": "/images/sunglasses.png"
+      }
+    ]
+  }
